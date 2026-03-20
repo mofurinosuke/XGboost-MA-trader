@@ -1,2 +1,2 @@
 # XGboost-MA-trader
-[![Open In Colab](https://colab.research.google.com)](https://colab.research.google.com)
+[![Open In Colab](mofurinosuke/XGboost-MA-trader/blob/main/XGboost_MA_model.ipynb)](https://colab.research.google.com)
